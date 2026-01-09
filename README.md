@@ -31,7 +31,7 @@
 
 ### 🍿 **Now Streaming: Pilot Episode**
 
-This is my personal **LeetCode DSA practice repository** – a journal to keep a track of the DSA solved problems.
+This is my personal **LeetCode DSA practice repository** – a journal to keep a track of the solved DSA problems.
 
 **The Story So Far:**
 - 🎯 Learning the crux
