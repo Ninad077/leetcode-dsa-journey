@@ -19,11 +19,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<p>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Just_Started-E50914?style=for-the-badge">
-  <img alt="Season" src="https://img.shields.io/badge/Season-Jan_2026-221F1F?style=for-the-badge">
-</p>
-
 </div>
 
 ---
@@ -36,13 +31,12 @@
 
 ### 🍿 **Now Streaming: Pilot Episode**
 
-This is my personal **LeetCode DSA practice repository** – think of it as my coding journey documented like a Netflix series. Kinda thrilling. It's like binge streaming episodes to catch the killer! The more episodes you go through, the interesting it gets. I assure you :).
+This is my personal **LeetCode DSA practice repository** – a journal to keep a track of the DSA solved problems.
 
 **The Story So Far:**
 - 🎯 Learning the crux
 - 🧠 Structuring it algorithmically
 - 🧹 Keeping solutions clean and well-commented
-- 🔁 Building consistency, one problem at a time
 
 **What to Expect:**
 - Regular uploads as I solve new problems
